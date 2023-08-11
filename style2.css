@@ -1,0 +1,85 @@
+.regoff {
+  font-family: "Libre Franklin";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 48px;
+  line-height: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #000000;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.regoff2 {
+  font-family: "Libre Franklin";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #000000;
+  text-align: center;
+  margin-top: 50px;
+  color: #f2b335;
+}
+
+
+.social {
+}
+.social a {
+  display: block;
+  width: 65px;
+  height: 65px;
+  margin-left: 258px;
+  margin-top: 33px;
+  margin-right: 133px;
+  text-align: center;
+  color: #000;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 24px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.35), inset 0 0 90px rgba(0, 0, 0, 0.1);
+}
+.social a:hover {
+  color: #fff;
+}
+.social svg {
+  margin-top: 7px;
+  width: 50px;
+  height: 50px;
+}
+.instagram a:hover {
+  background: #ca6522;
+  margin-left: 23px;
+}
+h1 {
+  text-align: center;
+  color: rgb(88, 78, 78);
+}
+.head {
+  border-bottom: 1px solid #e6e6e6;
+  background-color: #f2b335;
+}
+header {
+  padding-top: 7px;
+  padding-bottom: 7px;
+
+  justify-content: space-between;
+  font-family: "Tenor Sans";
+  text-align: center;
+}
+.line {
+  border-bottom: 1px solid #f2b335;
+  padding-bottom: 90px;
+}
+a {
+  text-decoration: none;}
+  .menu-link {
+  font-family: "Tenor Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgb(88, 78, 78);}

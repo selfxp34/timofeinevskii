@@ -1,0 +1,198 @@
+h1 {
+  text-align: center;
+      line-height: 1.2;
+}
+.width1 {
+  text-align: center;
+}
+form {
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+}
+.center {
+  margin-left: 124px;
+}
+.center2 {
+  margin-left: 127px;
+  margin-bottom: 122px;
+}
+.center3 {
+  margin-left: 108px;
+  margin-bottom: 44%;
+  margin-top: -108px;}
+  
+  .center4{
+    margin-left: 71px;
+    margin-bottom: 120px;
+}
+
+.head {
+  border-bottom: 1px solid #e6e6e6;
+  background-color: #f2b335;
+  height: 216px;
+  display: flex;
+  list-style: none;
+  margin-bottom: 0px;
+}
+.social {
+}
+.social a {
+  display: block;
+  width: 65px;
+  height: 65px;
+  margin-left: 258px;
+  margin-top: 33px;
+  margin-right: 133px;
+  text-align: center;
+  color: #000;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 24px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.35), inset 0 0 90px rgba(0, 0, 0, 0.1);
+}
+.social a:hover {
+  color: #fff;
+}
+.social svg {
+  margin-top: 7px;
+  width: 50px;
+  height: 50px;
+}
+.instagram a:hover {
+  background: #ca6522;
+  margin-left: 23px;
+}
+
+.social2 {
+}
+.social2 a {
+  display: block;
+  width: 25px;
+  height: 25px;
+  margin-left: 18px;
+  margin-top: 33px;
+  margin-right: 13px;
+  text-align: center;
+  color: #000;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 24px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.35), inset 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.social2 a:hover {
+  color: #fff;
+}
+.social2 svg {
+  margin-top: 1px;
+  width: 10px;
+  height: 10px;
+}
+.instagram2 a:hover {
+  background: #ca6522;
+  margin-left: 23px;
+}
+.regoff {
+  margin-top: 50px;
+}
+.mrg1 {
+  margin-right: -10px;
+}
+a {
+  text-decoration: none;
+}
+h1 {
+  text-align: center;
+  color: rgb(88, 78, 78);
+}
+.form-label {
+  font-family: "Tenor Sans";
+
+}
+footer {
+  background-color: #f2b335;
+  margin-bottom: -50px;
+}
+.reserved2 {
+  margin-left: 16px;
+  font-family: "Libre Franklin";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  padding-bottom: 20px;
+  padding-left: 823px;
+}
+.vxod{
+    color: #0d6efd;;
+    }
+   
+   .lk{
+      text-align:center; 
+          margin-bottom: 11.5rem;
+       } 
+
+.ftr{
+  
+    padding-bottom: 23px;
+}
+.lk2{
+    font-size:19px;
+}
+
+
+.bear {
+  background-image: url(https://timofeinevskii.ru/img/123.png);
+  background-size: cover;
+  width: 120px;
+  height: 185px;
+  position: absolute;
+  top: 0;
+  left: -120px;
+  transition: 4s all;
+}
+
+.bear_vis {
+  animation: bear-animation 8s linear;
+}
+
+ @keyframes bear-animation {
+    0% {
+        transform: translateX(0);
+    }
+    40% {
+        transform: translateX(100px);
+    }
+    70% {
+        transform: translateX(400px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+.lk3{
+   text-align: center;
+}
+h4{
+    padding-left:347px;
+    
+}
+.pd{
+    margin-right:14px;
+}
+.menu-link {
+  font-family: "Tenor Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgb(88, 78, 78);
+  margin-left: 44px;
+  padding: 2px;
+  margin-top:44px;
+  padding-bottom:33px;
+}
+.col-12 {
+    flex: 0 0 auto;
+    width: 94%;
+}
